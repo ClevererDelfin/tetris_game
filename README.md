@@ -1,2 +1,6 @@
 # tetris_game
-pygame
+# About this project
+
+#pygame
+#tetris
+#pygame lists
